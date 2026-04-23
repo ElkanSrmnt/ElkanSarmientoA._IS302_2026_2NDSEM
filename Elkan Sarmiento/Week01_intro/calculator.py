@@ -1,0 +1,6 @@
+num1_eas = float(input("Enter first number: "))
+num2_eas = float(input("Enter second number: "))
+print("Addition:", num1_eas + num2_eas)
+print("Subtraction:", num1_eas - num2_eas)
+print("Multiplication:", num1_eas * num2_eas)
+print("Division:", num1_eas / num2_eas)
